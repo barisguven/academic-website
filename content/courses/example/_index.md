@@ -1,8 +1,8 @@
 ---
-date: "2021-01-24"
+title: 📊 Learn Data Science
 linkTitle: Data Science
 summary: An example of using Wowchemy's Book layout for publishing online courses.
-title: "\U0001F4CA Learn Data Science"
+date: '2021-01-24'
 type: book
 ---
 
