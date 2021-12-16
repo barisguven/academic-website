@@ -32,7 +32,7 @@ education:
   - course: MA in Economics
     institution: Bogazici University
     year: 2015
-  - course: BSc in Mathematical Engineering
+  - course: BS in Mathematical Engineering
     institution: Yildiz Technical University
     year: 2011
 
@@ -50,8 +50,8 @@ social:
 #  label: Follow me on Twitter
 #  display:
 #    header: true
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
+- icon: google-scholar  # Alternatively, use `google-scholar` icon from `ai` icon pack
+  icon_pack: ai
   link: https://scholar.google.com/citations?hl=en&user=UI9lSM8AAAAJ
 - icon: github
   icon_pack: fab

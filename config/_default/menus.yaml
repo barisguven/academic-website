@@ -7,17 +7,20 @@ main:
   - name: Home
     url: '#about'
     weight: 10
-  - name: Experience
-    url: '#posts'
+  - name: Skills
+    url: '#skills'
     weight: 20
-  - name: Blogs
+#  - name: Experience
+#    url: '#posts'
+#    weight: 20
+  - name: Posts
     url: '#posts'
     weight: 30
   - name: Projects
     url: '#projects'
     weight: 40
   - name: Publications
-    url: '#featured'
+    url: '#publications'
     weight: 50
   - name: Courses
     url: courses/
