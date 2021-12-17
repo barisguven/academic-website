@@ -21,10 +21,10 @@ main:
 #    weight: 40
   - name: Publications
     url: '#publications'
-    weight: 50
+    weight: 40
   - name: Courses
     url: courses/
-    weight: 60
+    weight: 50
   - name: Contact
     url: '#contact'
-    weight: 70
+    weight: 60
