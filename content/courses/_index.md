@@ -9,4 +9,9 @@ header:
   image: ""
 ---
 
-I teach the following courses:
+I have taught the following courses:
+
+- Econometrics
+- Intermediate Macroeconomics
+- Introduction to Macroeconomics
+- Money and Banking

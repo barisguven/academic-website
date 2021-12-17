@@ -15,15 +15,27 @@ subtitle:
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
-feature:
-- description: ''
-  icon: r-project
-  icon_pack: fab
-  name: R
-- description: ''
-  icon: python
-  icon_pack: fab
-  name: Python
+# feature:
+# - description: ''
+#   icon: r-project
+#   icon_pack: fab
+#   name: R
+# - description: ''
+#   icon: 'stata32 copy'
+#   icon_pack: custom
+#   name: Stata
+# - description: ''
+#   icon: 'matlab'
+#   icon_pack: custom
+#   name: MATLAB
+# - description: ''
+#   icon: ''
+#   icon_pack: custom
+#   name: Latex
+# - description: ''
+#   icon: python
+#   icon_pack: fab
+#   name: Python
 #- description: 10%
 #  icon: camera-retro
 #  icon_pack: fas
@@ -44,3 +56,6 @@ feature:
 #  name: Surfing
 #  description: 90%
 ---
+
+### LaTeX    R    Stata    MATLAB    Python
+

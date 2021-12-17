@@ -10,7 +10,7 @@ headless: true
 weight: 90
 
 title: Publications
-subtitle: ''
+subtitle: 'Working Papers'
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -34,9 +34,12 @@ design:
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view: 4
+  view: 1
 ---
 
-{{% callout note %}}
-Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+- Productive state apparatus and technological change: extending Social Structure of Accumulation Theory
+- The past and future of employment in the face of relentless technical progress
+- Neoliberal transformation of research and development and its effect on technological change since 1980
+- Is wage inequality really driven by technological change?
+- Slower growth or faster technical progress: what explains employment performance?
+- Interstate competition and the emergent transformation in R&D in the US
