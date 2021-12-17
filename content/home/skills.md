@@ -57,5 +57,5 @@ subtitle:
 #  description: 90%
 ---
 
-### LaTeX    R    Stata    MATLAB    Python
+### R    Stata    LaTeX    MATLAB    Python
 
