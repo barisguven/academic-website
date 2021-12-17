@@ -42,4 +42,4 @@ design:
 - Neoliberal transformation of research and development and its effect on technological change since 1980
 - Is wage inequality really driven by technological change?
 - Slower growth or faster technical progress: what explains employment performance?
-- Interstate competition and the emergent transformation in R&D in the US
+- Interstate competition and the emergent transformation of R&D in the US
